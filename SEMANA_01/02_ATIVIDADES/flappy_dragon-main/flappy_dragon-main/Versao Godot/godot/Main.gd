@@ -2,7 +2,7 @@ extends Node # instancia a classe Node2D
 
 var status = 1 # 1 jogando, 0 parado
 var vscore = 0 # pontuação obtida
-var speed = 1.5 # velocidade, aumente esse valor para deixar o jogo mais difícil
+var speed = 2.7# velocidade, aumente esse valor para deixar o jogo mais difícil
 var gravity = 1.5 # gravidade, aumente esse valor para deixar o jogo mais difícil
 
 # executa essa função ao carregar o jogo
