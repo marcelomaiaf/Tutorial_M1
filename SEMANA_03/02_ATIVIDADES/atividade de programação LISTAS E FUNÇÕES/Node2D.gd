@@ -7,7 +7,6 @@ var array1 = ["one", "two", "three", "four", "five"] #atividade 1
 func _on_ButtonAtividade1_pressed():
 	$Label/Label.text = str(array1)
 
-
 var array2 = [] #atividade 2
 
 
