@@ -34,7 +34,7 @@ margin_right = 439.0
 margin_bottom = 377.0
 color = Color( 0, 0, 0, 1 )
 
-[node name="Label3" type="Label" parent="ColorRect"]
+[node name="num" type="Label" parent="ColorRect"]
 margin_right = 152.0
 margin_bottom = 73.0
 
